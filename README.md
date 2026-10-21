@@ -23,3 +23,6 @@ Lưu trữ skill và tài nguyên dựng video theo phong cách cá nhân của 
 ## Trạng thái
 
 Đã có hướng dẫn và tài liệu tham chiếu. Chưa có renderer, template chạy được, font/icon hoặc video mẫu trong Git. Không cần cài dependencies để sử dụng phần hướng dẫn. Khi thêm công cụ dựng, phải bổ sung manifest, lockfile và lệnh cài/render đã kiểm chứng. Publication của môi trường Codex là bước riêng trong giao diện, không xảy ra khi push Git.
+
+## Kết nối avatar/lip-sync
+Xem [hướng dẫn HeyGen và trạng thái tích hợp](integrations/heygen/README.md). Đã có checker chỉ đọc; chưa kiểm chứng generation trên dịch vụ thật.

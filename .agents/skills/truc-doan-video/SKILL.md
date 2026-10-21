@@ -28,5 +28,8 @@ Xác định sản phẩm, nguồn thông số, footage, lời thoại, thời l
 ## Người dẫn kết hợp thật và AI
 Người dùng đã yêu cầu kết hợp footage thật với avatar/lip-sync trong cùng video. Đọc [Quy trình người dẫn kết hợp](references/hybrid-presenter.md). Đây là định hướng người dùng yêu cầu, không phải kết luận rằng video mẫu dùng avatar.
 
+## Kết nối dịch vụ avatar
+Xem [tích hợp HeyGen](../../../integrations/heygen/README.md) trước khi dùng avatar/lip-sync. Chỉ có checker kết nối; generation chưa được xác minh. Không báo dịch vụ sẵn sàng dựa vào unit test hoặc cấu hình nháp.
+
 ## Ghi nhớ có kiểm soát
 Khi người dùng xác nhận một quy tắc áp dụng lâu dài, cập nhật style-guide và nêu rõ quy tắc nào đã thay đổi. Phân biệt quan sát từ mẫu, sở thích người dùng đã xác nhận và thông số triển khai đề xuất. Không ghi suy đoán thành sự thật.
