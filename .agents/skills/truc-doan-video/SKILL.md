@@ -25,5 +25,8 @@ Xác định sản phẩm, nguồn thông số, footage, lời thoại, thời l
 8. Render đoạn đại diện khi cần đánh giá template mới, rồi kiểm tra và hoàn thiện đầu ra theo yêu cầu. Không dừng ở đoạn demo nếu người dùng đã yêu cầu video hoàn chỉnh và không có bước duyệt bắt buộc.
 9. Kiểm tra chất lượng, báo file đầu ra, kiểm tra đã chạy và giới hạn còn lại. Không báo thành công chỉ từ exit code nếu chưa kiểm tra đầu ra.
 
+## Người dẫn kết hợp thật và AI
+Người dùng đã yêu cầu kết hợp footage thật với avatar/lip-sync trong cùng video. Đọc [Quy trình người dẫn kết hợp](references/hybrid-presenter.md). Đây là định hướng người dùng yêu cầu, không phải kết luận rằng video mẫu dùng avatar.
+
 ## Ghi nhớ có kiểm soát
 Khi người dùng xác nhận một quy tắc áp dụng lâu dài, cập nhật style-guide và nêu rõ quy tắc nào đã thay đổi. Phân biệt quan sát từ mẫu, sở thích người dùng đã xác nhận và thông số triển khai đề xuất. Không ghi suy đoán thành sự thật.

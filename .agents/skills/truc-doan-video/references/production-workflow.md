@@ -5,7 +5,7 @@ Repository chứa hướng dẫn và phân tích tham chiếu. Chưa có rendere
 
 ## Chuẩn bị một video
 1. Xác định đầu ra, nguồn footage, lời thoại và thông số có căn cứ.
-2. Lập bảng: start/end | lời thoại | cảnh | dòng dẫn | từ khóa | minh họa | nguồn thông số.
+2. Đọc hybrid-presenter.md. Lập bảng: start/end | cảnh thật/avatar/minh họa | lời thoại | nguồn audio | dòng dẫn | từ khóa | minh họa | nguồn thông số.
 3. Chọn bộ công cụ phù hợp với dự án. Nếu xây bằng Remotion hoặc HyperFrames, dùng skill tương ứng đang khả dụng và tài liệu chính thức.
 4. Với template mới, kiểm chứng hệ chữ, vùng an toàn và một sơ đồ trên đoạn đại diện trước khi nhân rộng.
 5. Kiểm tra đầu ra theo quality-checks.md.

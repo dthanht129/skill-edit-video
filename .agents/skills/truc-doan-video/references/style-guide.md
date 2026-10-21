@@ -24,3 +24,6 @@ Mẫu chưa được kiểm chứng bằng nghe trực tiếp trong phiên phân
 ## Phân biệt dùng chung và riêng sản phẩm
 Dùng chung: hệ chữ, bố cục, reveal, sơ đồ đường đi/quy trình, quy tắc QA.
 Riêng robot hút bụi: FlexiArm, SmartPlan, lực hút, chống rối, giặt và sấy giẻ. Chỉ dùng khi đúng sản phẩm và có nguồn xác minh. Các con số trong mẫu không phải mặc định cho video khác.
+
+## Điều chỉnh được người dùng xác nhận
+Người dùng yêu cầu kết hợp footage thật với avatar/lip-sync trong cùng video. Xem hybrid-presenter.md để phân vai cảnh, nguồn audio và kiểm tra tính nhất quán. Đây là yêu cầu sản xuất mới; nguồn gốc người dẫn trong mẫu review vẫn chưa xác định.
