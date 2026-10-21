@@ -26,3 +26,10 @@ Lưu trữ skill và tài nguyên dựng video theo phong cách cá nhân của 
 
 ## Kết nối avatar/lip-sync
 Xem [hướng dẫn HeyGen và trạng thái tích hợp](integrations/heygen/README.md). Đã có checker chỉ đọc; chưa kiểm chứng generation trên dịch vụ thật.
+
+## Quy trình AI từ brief đến video
+- [Quy trình sản xuất](.agents/skills/truc-doan-video/references/ai-production-pipeline.md)
+- [Prompt tổng thể để điền brief](.agents/skills/truc-doan-video/templates/master-prompt.md)
+- [Prompt hình ảnh/chuyển động từng cảnh](.agents/skills/truc-doan-video/templates/scene-prompt.md)
+
+Bao gồm ảnh tham chiếu nhất quán, I2V, tiếng Việt, lip-sync và dựng tự động. Đây là hướng dẫn; khả năng chạy từng bước phụ thuộc công cụ kết nối thực tế.

@@ -9,6 +9,7 @@ description: Dựng và đánh giá video review sản phẩm theo phong cách t
 - [Phong cách mặc định](references/style-guide.md).
 - [Kiểm tra chất lượng](references/quality-checks.md).
 - Khi đối chiếu mẫu review: [Phân tích mẫu](references/review-breakdown.md).
+- Khi sản xuất bằng AI từ kịch bản đến video: [quy trình đầy đủ](references/ai-production-pipeline.md), [prompt tổng thể](templates/master-prompt.md) và [prompt từng cảnh](templates/scene-prompt.md).
 - Khi chuẩn bị sản xuất: [Quy trình và tài nguyên](references/production-workflow.md).
 
 ## Đầu vào
